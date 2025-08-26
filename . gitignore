@@ -1,0 +1,23 @@
+# Ignorer toutes les sorties générées dans artifacts
+artifacts/*
+
+# Mais garder la doc et le marqueur
+!artifacts/README.md
+!artifacts/.gitkeep
+
+# Fichiers Python inutiles
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers temporaires
+*.log
+*.tmp
+
+# Notebooks Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environnements virtuels
+.env/
+venv/
