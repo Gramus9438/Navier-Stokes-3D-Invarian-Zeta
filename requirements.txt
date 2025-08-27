@@ -1,9 +1,9 @@
 # Core numerics & data
-numpy>=1.24
-pandas>=2.0
+numpy>=1.26,<2
+pandas>=2.1,<2.3
 
 # Plotting (CLI + notebooks)
-matplotlib>=3.7
+matplotlib>=3.7,<3.9
 
 # Notebooks
 jupyterlab>=4.0
