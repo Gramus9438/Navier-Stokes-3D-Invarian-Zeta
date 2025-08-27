@@ -1,0 +1,13 @@
+# Core numerics & data
+numpy>=1.24
+pandas>=2.0
+
+# Plotting (CLI + notebooks)
+matplotlib>=3.7
+
+# Notebooks
+jupyterlab>=4.0
+ipykernel>=6.25
+
+# Tests
+pytest>=8.0
