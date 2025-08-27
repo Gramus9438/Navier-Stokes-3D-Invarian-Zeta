@@ -1,0 +1,5 @@
+# requirements-ci.txt — minimal pour la CI
+numpy>=1.26,<2
+pandas>=2.1,<2.3
+matplotlib>=3.7,<3.9
+pytest>=8.0
