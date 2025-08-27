@@ -11,4 +11,3 @@ ipykernel>=6.25
 
 # Tests
 pytest>=8.0
-
