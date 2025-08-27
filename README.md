@@ -1,5 +1,7 @@
 # Navier–Stokes-3D-Invariant-Zeta
 
+![CI](https://github.com/gramus9438/Navier-Stokes-3D-Invariant-Zeta/actions/workflows/ci.yml/badge.svg)
+
 **Proposed proof of global regularity for 3D incompressible Navier–Stokes via a new invariant ζ(t).**  
 Reproducible code, documented tests, and benchmark scripts. MIT licensed.
 
